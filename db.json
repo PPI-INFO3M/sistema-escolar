@@ -1,0 +1,30 @@
+{
+  "alunos": [
+    {
+      "nome": "João Batista Teodoro",
+      "email": "joao.teodoro@escolar.ifrn.edu.br",
+      "cpf": "12345678900",
+      "data_nascimento": "1966-06-24",
+      "endereco": "Rua da Paraiba, 204",
+      "id": 2
+    }
+  ],
+  "professores": [
+    {
+      "id": 1,
+      "nome": "Jeferson Queiroga",
+      "email": "jeferson.queiroga@gmail.com",
+      "cpf": "123.456.789-00",
+      "disciplina": "Programação para Internet",
+      "data_admissao": "2020-03-01"
+    },
+    {
+      "nome": "João Neto",
+      "email": "joao.neto@gmail.com",
+      "cpf": "98765432199",
+      "disciplina": "Matemática III",
+      "dataAdmissao": "2000-01-01",
+      "id": 2
+    }
+  ]
+}
