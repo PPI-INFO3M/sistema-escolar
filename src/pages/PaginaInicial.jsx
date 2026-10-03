@@ -7,7 +7,9 @@ function PaginaInicial() {
       <p>Gerencie o cadastro de alunos do Técnico Integrado em Informática.</p>
       <div className="acoes-inicial">
         <Link to="/alunos" className="botao-link">Ver alunos</Link>
-        <Link to="/cadastro" className="botao-link">Cadastrar aluno</Link>
+        <Link to="/professores" className="botao-link">Ver professores</Link>
+        <Link to="/cadastro-aluno" className="botao-link">Cadastrar aluno</Link>
+        <Link to="/cadastro-professor" className="botao-link">Cadastrar professor</Link>
       </div>
     </div>
   );
