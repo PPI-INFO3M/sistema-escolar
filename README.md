@@ -114,4 +114,4 @@ _Adicione aqui capturas de tela do projeto em funcionamento (página inicial, li
 
 ## Autor
 
-**Seu Nome** — Curso Técnico em Informática para Internet, IFRN Campus Pau dos Ferros.
+**João Felipe Martins Teodoro** — Curso Técnico em Informática, IFRN Campus Pau dos Ferros.
